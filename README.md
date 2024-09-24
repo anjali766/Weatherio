@@ -10,4 +10,4 @@ Air Quality Data: Shows air quality data including key attributes like AQI, Wind
 Error Handling: If an invalid city is entered, an error message is displayed.
 Responsive Design: Mobile-friendly UI using Tailwind CSS.
 Debounced Search Input: Reduces unnecessary API calls by debouncing user input in the search bar.
----
+
